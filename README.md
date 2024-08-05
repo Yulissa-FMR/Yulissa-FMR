@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yulissa Medina 
+- 👋 Hi, my name is Yulissa Medina 
 - 👀 I’m interested in expanding my knowledge in coding
 - 🌱 I’m currently learning SQL,Java, & Python 
 - 💞️ I’m looking to collaborate on projects & new skills 
